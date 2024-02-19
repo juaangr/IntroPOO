@@ -1,6 +1,6 @@
 public class Persona {
     //Atributos
-    private String nombre;
+    private java.lang.String nombre;
     private int edad;
 
     //Constructor
